@@ -1,16 +1,7 @@
-# monarch_stories
+# Monarch Stories
 
-A new Flutter project.
+Monarch is a tool that helps build isolated widgets in Flutter. With Monarch you can independently test and verify UI. 
+Check official documentation [here](http://monarchapp.io/)
 
-## Getting Started
+This is a project that implements it and was used to try it out in [during a talk](https://drive.google.com/file/d/1BnyHX7RbooBsFW2d90oixcmG9wCg9sWg/view?usp=sharing) I gave. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
